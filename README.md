@@ -4,5 +4,5 @@
 - Setup your database first
 
 ```
-$ tero install tero_login_setup
+$ tero install dromero86/tero_login_setup
 ```
